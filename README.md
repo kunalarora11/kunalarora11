@@ -20,7 +20,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalarora11)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=telegram)](https://t.me/kunal_arora_11) 
+[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=telegram)](https://t.me/kunalarora11) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kunal.arora_) 
 
 # 💻 Tech Stack:
